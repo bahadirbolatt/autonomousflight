@@ -1,2 +1,2 @@
 # autonomousflight
-An autonomous flight code example with Dronekit library.
+An autonomous flight code example with Dronekit library for quadcopters.
